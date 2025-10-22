@@ -1,0 +1,22 @@
+/* styles.css */
+
+.foco1,
+.foco2,
+.foco3,
+.foco4,
+.foco5,
+.foco6,
+.foco7,
+.pc,
+.tv,
+.bocinas,
+.regadera,
+.estufa,
+.boiler {
+  cursor: pointer;
+  transition: filter 0.3s ease; /* Add a smooth transition for the filter property */
+}
+
+.blur {
+    filter: blur(3px); /* Adjust the blur amount as needed */
+  }
