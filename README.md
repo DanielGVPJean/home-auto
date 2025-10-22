@@ -55,7 +55,7 @@ $dbname = "tu_base_de_datos";
 
 ### 3. Configuración del ESP32
 
-Consultar el documento `assets/Casa-inteligente-ESP32.pdf` para:
+Consultar el documento [`assets/Casa-inteligente-ESP32.pdf`](https://github.com/DanielGVPJean/home-auto/blob/1dadfdada247e93e9e9bbcd585cef07c759389a5/assets/Casa-inteligente-ESP32.pdf) para:
 - Configurar la conexión WiFi del ESP32
 - Establecer comunicación con el servidor
 - Configurar sensores de consumo
